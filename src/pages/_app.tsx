@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>React Avançado - Boilerplate</title>
+        <title>NextJs - Boilerplate</title>
         <link rel="manifest" href="/manifest.json" />
         <meta
           name="description"
