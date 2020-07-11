@@ -1,4 +1,4 @@
-## Boilerplate to projects using NextJS + TypeScript + React + Storybook + Jest
+# Boilerplate to projects using NextJS + TypeScript + React + Storybook + Jest
 
 ### How use this structure
 
